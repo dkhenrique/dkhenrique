@@ -55,6 +55,3 @@
 
 ###
 
-![snake gif](https://github.com/dkhenrique/dkhenrique/blob/output/snake.svg)
-
-###
