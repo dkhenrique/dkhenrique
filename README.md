@@ -7,7 +7,7 @@
 ###
 
 <p align="center">
-  🌱 I’m currently learning through the <strong>Discover Program</strong> at Rocketseat!<br><br>
+  🌱 I’m currently learning through the <strong>Discover Program</strong> at Alura and Cruzeiro do Sul!<br><br>
   👯 I’m looking to collaborate on open source projects to enhance my skills and contribute to the community.<br><br>
   📫 How to reach me: <a href="mailto:daniel.dk47@gmail.com">daniel.dk47@gmail.com</a>
 </p>
