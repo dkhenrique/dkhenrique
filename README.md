@@ -2,12 +2,16 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="ilustração de um computador" width="100%">
 </p>
 
-<h1 align="center">Daniel Henrique</h1>
+<h1 align="center">Olá, eu sou Daniel Henrique 👋</h1>
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full-Stack;Focado+em+React+%26+Node.js;Sempre+aprendendo+algo+novo" alt="Typing SVG" /></a>
 </p>
 
-<h2 align="center">💡 Sobre Mim</h2>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<h2 align="left">💡 Sobre Mim</h2>
+
 
 ```js
 import Desenvolvedor from "dkhenrique";
