@@ -7,19 +7,20 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full-Stack;Focado+em+React+%26+Node.js;Sempre+aprendendo+algo+novo" alt="Typing SVG" /></a>
 </p>
 
-<br>
+<h2 align="center">💡 Sobre Mim</h2>
 
-<div id="user-content-toc">
-  <h2 align="center">💡 Sobre Mim</h2>
-</div>
+```js
+import Desenvolvedor from "dkhenrique";
 
-<p align="center">
-  Sou um desenvolvedor apaixonado por criar soluções tecnológicas e experiências digitais. Atualmente, estou focado no ecossistema <strong>JavaScript/TypeScript</strong>, construindo aplicações web modernas e escaláveis.
-  <br><br>
-  Estou sempre em busca de desafios e oportunidades para colaborar em <strong>projetos de código aberto</strong>, onde posso aplicar minhas habilidades e aprender com a comunidade.
-</p>
+class SobreMim extends Desenvolvedor {
+  nome = "Daniel Henrique";
+  area = "Desenvolvimento Full-Stack";
+  foco = ["React", "Node.js", "TypeScript", "Next.js"];
+  local = "Brasil";
+}
+```
 
----
+
 
 <h2 align="center">📈 Minha Atividade no GitHub</h2>
 <div align="center">
@@ -33,19 +34,7 @@
   </a>
 </div>
 
----
 
-<h2 align="center">🚀 Projetos em Destaque</h2>
-<div align="center">
-  <a href="https://github.com/dkhenrique/NOME_DO_REPO_1" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dkhenrique&repo=Social-Media-Dashboard&theme=dracula&show_owner=true" />
-  </a>
-  <a href="https://github.com/dkhenrique/NOME_DO_REPO_2" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dkhenrique&repo=mp-saas-landing-page-com-nextjs&theme=dracula&show_owner=true" />
-  </a>
-  <br><br><br><br><br><br><br> </div>
-
----
 
 <h2 align="center">🛠️ Tecnologias</h2>
 <p align="center">
@@ -58,6 +47,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 </p>
+
+<br/>
+
 <p align="center">
   <strong>Backend & Databases:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
@@ -65,6 +57,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma" />
 </p>
+
+<br/>
+
 <p align="center">
   <strong>Ferramentas & Ambiente:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
@@ -72,8 +67,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" height="40" alt="Vite" />
 </p>
-
----
 
 <h2 align="center">📫 Conecte-se Comigo</h2>
 <div align="center">
