@@ -36,6 +36,8 @@ class SobreMim extends Desenvolvedor {
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="Gráfico de Atividade" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dkhenrique&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
   </a>
+
+  <img src="https://raw.githubusercontent.com/dkhenrique/dkhenrique/output/snake.svg" alt="Snake animation" />
 </div>
 
 
@@ -83,3 +85,5 @@ class SobreMim extends Desenvolvedor {
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dkhenrique&style=flat-square&color=blue" alt="Contador de Visitas"/>
 </p>
+
+
