@@ -1,89 +1,116 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="ilustração de um computador" width="100%">
-</p>
-
-<h1 align="center">Olá, eu sou Daniel Henrique 👋</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full-Stack;Focado+em+React+%26+Node.js;Sempre+aprendendo+algo+novo" alt="Typing SVG" /></a>
-</p>
-
-
-
-<h2 align="left">💡 Sobre Mim</h2>
-
-
-```js
-import Desenvolvedor from "dkhenrique";
-
-class SobreMim extends Desenvolvedor {
-  nome = "Daniel Henrique";
-  area = "Desenvolvimento Full-Stack";
-  foco = ["React", "Node.js", "TypeScript", "Next.js"];
-  local = "Brasil";
-}
-```
-
-
-
-<h2 align="center">📈 Minha Atividade no GitHub</h2>
 <div align="center">
-  <a href="https://github.com/dkhenrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkhenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkhenrique&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-  <br><br>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Gráfico de Atividade" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dkhenrique&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
-  </a>
 
-  <img src="https://raw.githubusercontent.com/dkhenrique/dkhenrique/output/snake.svg" alt="Snake animation" />
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · dkhenrique</sub></p>
+<h1>Daniel Henrique dos Santos</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Learning is continuous and there will always be a next level</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Sorocaba - SP</sub></p>
+<p><a href="https://github.com/dkhenrique">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=dkhenrique&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86378234%3Fu%3D15be4b53e99bce3f5ff82fbff7875adbfb8b7672%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=dkhenrique&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86378234%3Fu%3D15be4b53e99bce3f5ff82fbff7875adbfb8b7672%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="Daniel Henrique dos Santos animated colored ASCII portrait" />
+</picture>
+</td>
+</tr>
+</table>
 </div>
 
+<h2>What teams can evaluate quickly</h2>
 
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · JavaScript · CSS</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>42 repositories · 3 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>269 contributions · 57 active days</p></td>
+</tr>
+</table>
 
-<h2 align="center">🛠️ Tecnologias</h2>
-<p align="center">
-  <strong>Frontend:</strong><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" height="40" alt="Vite" />
-</p>
+<p><sub>Learning is continuous and there will always be a next level</sub></p>
 
-<br/>
+<h2>Proof at a glance</h2>
 
-<p align="center">
-  <strong>Backend & Databases:</strong><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma" />
-</p>
-
-<br/>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>42</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>269</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>23</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <strong>Ferramentas & Ambiente:</strong><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
-  
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=dkhenrique&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86378234%3Fu%3D15be4b53e99bce3f5ff82fbff7875adbfb8b7672%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=dkhenrique&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86378234%3Fu%3D15be4b53e99bce3f5ff82fbff7875adbfb8b7672%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Daniel Henrique dos Santos GitHub proof metrics" />
+</picture>
 </p>
 
-<h2 align="center">📫 Conecte-se Comigo</h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/daniel-henrique-d-santos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:daniel.dk47@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.instagram.com/dhs_santos/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</div>
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=dkhenrique&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86378234%3Fu%3D15be4b53e99bce3f5ff82fbff7875adbfb8b7672%26v%3D4&repos=dkhenrique%2FDelivery-Manager%2Cdkhenrique%2Ffind-a-friend%2Cdkhenrique%2FTime-tracking-dashboard&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=dkhenrique&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86378234%3Fu%3D15be4b53e99bce3f5ff82fbff7875adbfb8b7672%26v%3D4&repos=dkhenrique%2FDelivery-Manager%2Cdkhenrique%2Ffind-a-friend%2Cdkhenrique%2FTime-tracking-dashboard&v=recruiter-projects-1&mode=dark" width="100%" alt="Daniel Henrique dos Santos selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/dkhenrique/Delivery-Manager">Delivery-Manager</a></h3>
+<p>A selected public project.</p>
+<p><sub>TypeScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/dkhenrique/Delivery-Manager">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/dkhenrique/find-a-friend">find-a-friend</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/dkhenrique/Time-tracking-dashboard">Time-tracking-dashboard</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dkhenrique&style=flat-square&color=blue" alt="Contador de Visitas"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=dkhenrique&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86378234%3Fu%3D15be4b53e99bce3f5ff82fbff7875adbfb8b7672%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=dkhenrique&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86378234%3Fu%3D15be4b53e99bce3f5ff82fbff7875adbfb8b7672%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Daniel Henrique dos Santos technology stack" />
+</picture>
 </p>
 
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>TypeScript</strong><br /><sub>40% of public code</sub></td>
+<td width="25%" align="center"><strong>JavaScript</strong><br /><sub>25% of public code</sub></td>
+<td width="25%" align="center"><strong>CSS</strong><br /><sub>18% of public code</sub></td>
+<td width="25%" align="center"><strong>HTML</strong><br /><sub>17% of public code</sub></td>
+</tr>
+</table>
 
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=dkhenrique&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86378234%3Fu%3D15be4b53e99bce3f5ff82fbff7875adbfb8b7672%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=dkhenrique&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86378234%3Fu%3D15be4b53e99bce3f5ff82fbff7875adbfb8b7672%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Daniel Henrique dos Santos contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/dkhenrique">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Daniel Henrique dos Santos · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
