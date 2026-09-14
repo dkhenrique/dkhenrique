@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · dkhenrique</sub></p>
 <h1>Daniel Henrique dos Santos</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Full-stack developer</h2>
 <p>Learning is continuous and there will always be a next level</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Sorocaba - SP</sub></p>
