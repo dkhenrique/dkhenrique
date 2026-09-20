@@ -1,116 +1,80 @@
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · dkhenrique</sub></p>
-<h1>Daniel Henrique dos Santos</h1>
-<h2>Full-stack developer</h2>
-<p>Learning is continuous and there will always be a next level</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Sorocaba - SP</sub></p>
-<p><a href="https://github.com/dkhenrique">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=dkhenrique&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86378234%3Fu%3D15be4b53e99bce3f5ff82fbff7875adbfb8b7672%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=dkhenrique&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86378234%3Fu%3D15be4b53e99bce3f5ff82fbff7875adbfb8b7672%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="Daniel Henrique dos Santos animated colored ASCII portrait" />
-</picture>
-</td>
-</tr>
-</table>
-</div>
-
-<h2>What teams can evaluate quickly</h2>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · JavaScript · CSS</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>42 repositories · 3 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>269 contributions · 57 active days</p></td>
-</tr>
-</table>
-
-<p><sub>Learning is continuous and there will always be a next level</sub></p>
-
-<h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>42</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>3</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>269</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>23</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+<h1 align="center">Daniel Henrique dos Santos</h1>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=dkhenrique&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86378234%3Fu%3D15be4b53e99bce3f5ff82fbff7875adbfb8b7672%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=dkhenrique&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86378234%3Fu%3D15be4b53e99bce3f5ff82fbff7875adbfb8b7672%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Daniel Henrique dos Santos GitHub proof metrics" />
-</picture>
+  <strong>Desenvolvimento Full Stack</strong><br />
+  TypeScript · React · Next.js · Node.js · NestJS · PostgreSQL
 </p>
-
-<h2>Selected work</h2>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=dkhenrique&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86378234%3Fu%3D15be4b53e99bce3f5ff82fbff7875adbfb8b7672%26v%3D4&repos=dkhenrique%2FDelivery-Manager%2Cdkhenrique%2Ffind-a-friend%2Cdkhenrique%2FTime-tracking-dashboard&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=dkhenrique&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86378234%3Fu%3D15be4b53e99bce3f5ff82fbff7875adbfb8b7672%26v%3D4&repos=dkhenrique%2FDelivery-Manager%2Cdkhenrique%2Ffind-a-friend%2Cdkhenrique%2FTime-tracking-dashboard&v=recruiter-projects-1&mode=dark" width="100%" alt="Daniel Henrique dos Santos selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/dkhenrique/Delivery-Manager">Delivery-Manager</a></h3>
-<p>A selected public project.</p>
-<p><sub>TypeScript · ⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/dkhenrique/Delivery-Manager">Read the repository →</a></p>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/dkhenrique/find-a-friend">find-a-friend</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/dkhenrique/Time-tracking-dashboard">Time-tracking-dashboard</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
-<h2>Technical toolkit</h2>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=dkhenrique&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86378234%3Fu%3D15be4b53e99bce3f5ff82fbff7875adbfb8b7672%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=dkhenrique&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86378234%3Fu%3D15be4b53e99bce3f5ff82fbff7875adbfb8b7672%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Daniel Henrique dos Santos technology stack" />
-</picture>
+  <a href="https://www.linkedin.com/in/daniel-henrique-d-santos/">LinkedIn</a>
+  ·
+  <a href="mailto:daniel.dk47@gmail.com">E-mail</a>
 </p>
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>TypeScript</strong><br /><sub>40% of public code</sub></td>
-<td width="25%" align="center"><strong>JavaScript</strong><br /><sub>25% of public code</sub></td>
-<td width="25%" align="center"><strong>CSS</strong><br /><sub>18% of public code</sub></td>
-<td width="25%" align="center"><strong>HTML</strong><br /><sub>17% of public code</sub></td>
-</tr>
-</table>
+---
 
-<h2>Consistency signal</h2>
+## Sobre mim
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=dkhenrique&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86378234%3Fu%3D15be4b53e99bce3f5ff82fbff7875adbfb8b7672%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=dkhenrique&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86378234%3Fu%3D15be4b53e99bce3f5ff82fbff7875adbfb8b7672%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Daniel Henrique dos Santos contribution activity" />
-</picture>
-</p>
+Atuo com suporte técnico e experiência do cliente (CX) e desenvolvo aplicações web com foco em full stack. Minha experiência investigando problemas e acompanhando a jornada de usuários orienta o que busco construir: soluções úteis, com regras de negócio claras e interfaces fáceis de usar.
 
-<hr />
+Nos meus projetos, conecto frontend, APIs e bancos de dados. Também exploro automações com n8n e aplicações de IA para melhorar processos e reduzir tarefas repetitivas.
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/dkhenrique">GitHub</a></td>
-</tr>
-</table>
+📍 Sorocaba, São Paulo — Brasil
 
-<p align="center"><sub>Daniel Henrique dos Santos · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+## Projetos em destaque
+
+### [Delivery Manager](https://github.com/dkhenrique/Delivery-Manager)
+
+Aplicação full stack para organizar o recebimento e a retirada de encomendas em condomínios sem portaria presencial.
+
+- **Frontend:** Next.js, React e Tailwind CSS, com telas de cadastro, gestão de moradores e acompanhamento de encomendas.
+- **Backend:** NestJS, PostgreSQL e TypeORM, com autenticação JWT e controle de acesso por perfil.
+- **Fluxo principal:** registro de encomendas, notificações por e-mail e confirmação de retirada por código.
+
+[Explorar o código e a documentação](https://github.com/dkhenrique/Delivery-Manager#readme)
+
+### [Find a Friend](https://github.com/dkhenrique/find-a-friend)
+
+API para conectar organizações e pessoas interessadas na adoção de pets, desenvolvida como projeto de estudo a partir de um curso de NestJS.
+
+- Cadastro de organizações, pets e registros de adoção.
+- Busca por cidade e filtros de características dos animais.
+- NestJS, TypeScript, PostgreSQL e TypeORM, com autenticação JWT, migrations e documentação Swagger.
+
+[Explorar a API e as regras de negócio](https://github.com/dkhenrique/find-a-friend#readme)
+
+### [Banco de Horas & Folgas](https://github.com/dkhenrique/banco-de-horas-folgas)
+
+Ferramenta web para organizar lançamentos de horas, saldos, folgas e o calendário de ausências de uma equipe.
+
+- Interface em HTML, CSS e JavaScript, integrada a webhooks do n8n.
+- Fluxos de consulta de saldos e confirmação ou reversão de lançamentos de folga.
+- Separação entre interface, estado, regras de negócio e serviços de integração.
+
+[Explorar o projeto](https://github.com/dkhenrique/banco-de-horas-folgas)
+
+## Tecnologias presentes nos meus projetos
+
+| Área | Tecnologias |
+| --- | --- |
+| Frontend | TypeScript, JavaScript, React, Next.js, HTML, CSS, Tailwind CSS |
+| Backend | Node.js, NestJS, APIs REST, JWT |
+| Dados | PostgreSQL, TypeORM |
+| Testes e documentação | Jest, Vitest, Swagger / OpenAPI |
+| Ferramentas e integrações | Git, Docker, n8n, webhooks |
+
+## O que trago da experiência em suporte e CX
+
+- **Investigação de problemas:** entender o contexto, reproduzir falhas e organizar evidências.
+- **Visão do usuário:** relacionar decisões técnicas com as dificuldades de quem usa o produto.
+- **Comunicação:** explicar questões técnicas de forma clara e transformar dúvidas recorrentes em oportunidades de melhoria.
+
+## Foco de desenvolvimento
+
+Estou aprofundando minha prática em aplicações full stack, testes e documentação, além de explorar IA e automações aplicadas a problemas de suporte e operação.
+
+---
+
+Vamos conversar sobre desenvolvimento, produtos e automações?
+
+[LinkedIn](https://www.linkedin.com/in/daniel-henrique-d-santos/) · [daniel.dk47@gmail.com](mailto:daniel.dk47@gmail.com)
