@@ -73,6 +73,18 @@ Ferramenta web para organizar lançamentos de horas, saldos, folgas e o calendá
 
 Estou aprofundando minha prática em aplicações full stack, testes e documentação, além de explorar IA e automações aplicadas a problemas de suporte e operação.
 
+<h2>Consistency</h2>
+
+<p align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=dkhenrique&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86378234%3Fu%3D15be4b53e99bce3f5ff82fbff7875adbfb8b7672%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=dkhenrique&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86378234%3Fu%3D15be4b53e99bce3f5ff82fbff7875adbfb8b7672%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Daniel Henrique dos Santos contribution activity" />
+</picture>
+</p>
+
+<hr />
+
 ---
 
 Vamos conversar sobre desenvolvimento, produtos e automações?
